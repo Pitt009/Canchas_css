@@ -1,0 +1,45 @@
+#canchaBasquetbol{
+  width: 600px;
+  height: 400px;
+  background: #A05C0A;
+  border: 2px solid white;
+  margin: auto auto;
+
+
+}
+
+
+#lineaDeTresPuntos{
+  width: 200px;
+  height: 200px;
+  border: 2px solid white;
+  border-radius: 0 100px 100px 0;
+  border-radius: 0 100px 100px 0;
+  border-radius: 0 100px 100px 0;
+  float: left;
+  margin-top: 100px;
+
+}
+
+#areaTiroLibreIzquierdo{
+  width: 30px;
+  height: 30px;
+  border-right: 60px solid transparent;
+  border-left: 60px solid transparent;
+  border-bottom: 120px solid #C16905;
+  float: left;
+  margin-top: 130px;
+  transform: rotate(90deg);
+  position: absolute;
+
+}
+
+#areaDeTiroIzquierdo{
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+  border-radius: 50%;
+  border-radius: 50%;
+  border: 2px solid white;
+
+}
