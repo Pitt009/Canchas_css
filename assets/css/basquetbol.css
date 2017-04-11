@@ -21,6 +21,7 @@
 
 }
 
+
 #areaTiroLibreIzquierdo{
   width: 30px;
   height: 30px;
@@ -34,12 +35,26 @@
 
 }
 
-#areaDeTiroIzquierdo{
-  width: 100px;
-  height: 100px;
+#areaDeTiroIzquiero{
+  width: 80px;
+  height: 80px;
   border-radius: 50%;
   border-radius: 50%;
   border-radius: 50%;
   border: 2px solid white;
+  float: left;
+  position: absolute;
+  margin-left: 80px;
+  margin-top: 160px;
+}
+
+#lineaCentral{
+  border-left: 2px solid white;
+  float: left;
+  margin-left: 120px;
+  height: 100%;
+  right: 50%
+  position: absolute;
+  top:0%
 
 }
