@@ -1,0 +1,18 @@
+body{
+  background-color: #68DF73;
+}
+h1{
+  font-family: "Press Start 2P", cursive;
+  text-align: center;
+
+}
+ button{
+   margin: 16px;
+   background: #4EA717;
+   margin-left: 20%;
+   border-radius: 6px;
+   height: 45px;
+   color: white;
+
+ }
+ 
